@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+}
+button {
+    width: 150px;
+}
+
+button .btn {
+    border-radius: 20px;
+
+}
+.card{
+    height: 50vh;
+    overflow: hidden;
+}
+
+.card-body p {
+    margin: 0;
+}
+
+.card-body h4 {
+    color: orange;
+}
+
+.card-header img {
+   
+    height: 18vh;
+    width: 200px;
+    object-fit: cover;
+    box-shadow: 0px 10px 20px;
+}
+i{
+ font-size: 45px;
+ margin-left: 20px;
+}
+
+.boxChina{
+    background: orange;
+    width: 9vw;
+    height: 25px;
+}
+.boxUSA{
+    background: orange;
+    width: 3vw;
+    height: 25px;
+}
+
+.boxPakistan{
+    background: orange;
+    width: 2vw;
+    height: 25px;
+}
+.boxBangladesh{
+    background: orange;
+    width: 1vw;
+    height: 25px;
+}
+.boxArabic{
+    background: orange;
+    width: 40vw;
+    height: 25px;
+}
+.boxFrench{
+    background: orange;
+    width: 37vw;
+    height: 25px;
+}
+.boxChinese{
+    background: orange;
+    width: 30vw;
+    height: 25px;
+}
+.boxSpanish{
+    background: orange;
+    width: 28vw;
+    height: 25px;
+}
+.boxPersian{
+    background: orange;
+    width: 24vw;
+    height: 25px;
+}
+.boxGerman{
+    background: orange;
+    width: 18vw;
+    height: 25px;
+}
+.boxRussian{
+    background: orange;
+    width: 16vw;
+    height: 25px;
+}
+.boxMalaysian{
+    background: orange;
+    width: 13vw;
+    height: 25px;
+}
+.boxPortuguese{
+    background: orange;
+    width: 11vw;
+    height: 25px;
+}
